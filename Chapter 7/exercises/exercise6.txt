@@ -1,0 +1,6 @@
+For each o fth e following items of data, specify which one of the types char, short, int , or long is the smallest one guaranteed to be large enough to store the item.
+
+(a) Days in a month					SHORT 
+(b) Days in a year					SHORT	
+(c) Minutes in a day				INT
+(d) Seconds in a day				INT/LONG

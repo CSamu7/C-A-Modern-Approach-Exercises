@@ -1,0 +1,9 @@
+#include <stdbool.h>
+#include <stdio.h>
+
+int main(){
+	bool weekend[7] = {[0] = true, [6] = true};
+
+	printf("%d", weekend[0]);
+}
+

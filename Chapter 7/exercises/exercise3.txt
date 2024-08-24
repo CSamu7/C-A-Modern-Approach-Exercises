@@ -1,0 +1,6 @@
+Which of the following are not legal types in C?
+
+(a) short unsigned int	LEGAL
+(b) short float					LEGAL
+(c) long double					LEGAL
+(d) unsigned long				ILEGAL

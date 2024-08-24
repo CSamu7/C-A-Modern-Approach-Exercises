@@ -1,0 +1,7 @@
+Which of the following are not legal constants in C? Classify each legal constant as either integer or floating-point.
+
+(a) 010E2						  ILEGAL
+(b) 3 2 .1 E + 5			LEGAL		FLOATING	
+(c) 0790							LEGAL		INTEGER
+(d) 100 _ 000			    ILEGAL	
+(e) 3.978e-2					LEGAL		FLOATING

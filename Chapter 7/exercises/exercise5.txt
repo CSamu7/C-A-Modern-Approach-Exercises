@@ -1,0 +1,6 @@
+Which one of the following is not a legal way to write the number 65? (Assume that the character set is ASCII.)
+
+(a) ’A’
+(b) 0bl000001 ILLEGAL
+(C) 0101
+(d) 0x41

@@ -1,0 +1,6 @@
+If c is a variable of type c h a r , which one of the following statements is illegal?
+
+(a) i += c ; / * i has type int * /
+(b) c = 2 * c - 1;
+(c) putchar(c);
+(d) printf(c);	ILLEGAL
